@@ -24,8 +24,7 @@ The KingDoge Team is dedicated into creating its own version of doge. The KingDo
 🔸51% Liquidity\
 🔸SoftCap: 750 BNB \
 🔸HardCap: 1500 BNB \
-🔸Presale Start time: May 16, 2021 05:00 \
-🔸Presale end time: May 22, 2021 05:00
+🔸Presale Start time: May 16, 2021 05:00 until May 22, 2021 05:00
 
 # Website and Social Media
 * [TELEGRAM](https://t.me/kingdogeio) : https://t.me/kingdogeio 
