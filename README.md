@@ -20,10 +20,12 @@ The KingDoge Team is dedicated into creating its own version of doge. The KingDo
     🔸3 % Reward\
     🔸3 % Tax Fee\
 🔸Min: 0.1 BNB\
-🔸Max: 20 BNB\
+🔸Max: 5 BNB\
 🔸51% Liquidity\
-🔸SoftCap: 750 BNB\
-🔸HardCap: 1500 BNB 
+🔸SoftCap: 750 BNB \
+🔸HardCap: 1500 BNB \
+🔸Presale Start time: May 16, 2021 05:00 \
+🔸Presale end time: May 22, 2021 05:00
 
 # Website and Social Media
 * [TELEGRAM](https://t.me/kingdogeio) : https://t.me/kingdogeio 
@@ -35,7 +37,7 @@ The KingDoge Team is dedicated into creating its own version of doge. The KingDo
 
 # PRESALE 
 PRE-SALE LINK!! \
-(Starts: 16 May 2021 00:00) \
+(Starts: 16 May 2021 05:00 - End: 22 May 2021 05:00 ) \
 Keep stay tuned in our telegram group 👀 \
 [DXSALE PRESALE](https://dxsale.app/app/pages/defipresale?saleID=1206&chain=BSC) https://dxsale.app/app/pages/defipresale?saleID=1206&chain=BSC \
 (Open using trustwallet dapp browser or safepal, change network to BSC / Smartchain network) \
