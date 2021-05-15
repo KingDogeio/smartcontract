@@ -1,8 +1,4 @@
 /**
- *Submitted for verification at BscScan.com on 2021-05-14
-*/
-
-/**
    The KingDoge Token
    website: https://kingdoge.io/
    telegram: https://t.me/kingdogeio
@@ -744,7 +740,7 @@ contract KingDogeToken is Context, IERC20, Ownable {
     constructor () public {
         _rOwned[_msgSender()] = _rTotal;
 
-        IUniswapV2Router02 _uniswapV2Router = IUniswapV2Router02(0x05fF2B0DB69458A0750badebc4f9e13aDd608C7F);
+        IUniswapV2Router02 _uniswapV2Router = IUniswapV2Router02(0x10ED43C718714eb63d5aA57B78B54704E256024E);
         // Create a uniswap pair for this new token
         uniswapV2Pair = IUniswapV2Factory(_uniswapV2Router.factory())
         .createPair(address(this), _uniswapV2Router.WETH());
