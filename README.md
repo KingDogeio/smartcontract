@@ -8,7 +8,7 @@ https://bscscan.com/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770
 
 The KingDoge Team is dedicated into creating its own version of doge. The KingDoge is a community-driven DeFi.
 
-* [VERIFIED CONTRACT](https://bscscan.com/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770) : https://bscscan.com/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770 \
+* [VERIFIED CONTRACT](https://bscscan.com/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770) : https://bscscan.com/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770 
 
 ‼️KING DOGE IN WORLD‼️
 
