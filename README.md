@@ -8,6 +8,8 @@ https://bscscan.com/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770
 
 The KingDoge Team is dedicated into creating its own version of doge. The KingDoge is a community-driven DeFi.
 
+* [VERIFIED CONTRACT](https://bscscan.com/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770) : https://bscscan.com/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770 \
+
 ‼️KING DOGE IN WORLD‼️
 
 🔸Name : KINGDOGE\
@@ -24,13 +26,12 @@ The KingDoge Team is dedicated into creating its own version of doge. The KingDo
 🔸HardCap: 1500 BNB 
 
 # Website and Social Media
-[TELEGRAM](https://t.me/kingdogeio) : https://t.me/kingdogeio \
-[WEBSITE](https://kingdoge.io/) : https://kingdoge.io/ \
-[VERIFIED CONTRACT](https://bscscan.com/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770) : https://bscscan.com/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770 \
-[TWITTER](https://twitter.com/kingdogetoken) :  https://twitter.com/kingdogetoken \
-[FACEBOOK](https://www.facebook.com/groups/Kingdoge) : https://www.facebook.com/groups/Kingdoge \
-[REDDIT](https://www.reddit.com/r/KingDoge/) : https://www.reddit.com/r/KingDoge \
-[GITHUB](https://github.com/KingDogeIO) : https://github.com/KingDogeIO 
+* [TELEGRAM](https://t.me/kingdogeio) : https://t.me/kingdogeio 
+* [WEBSITE](https://kingdoge.io/) : https://kingdoge.io/ 
+* [TWITTER](https://twitter.com/kingdogetoken) :  https://twitter.com/kingdogetoken 
+* [FACEBOOK](https://www.facebook.com/groups/Kingdoge) : https://www.facebook.com/groups/Kingdoge 
+* [REDDIT](https://www.reddit.com/r/KingDoge/) : https://www.reddit.com/r/KingDoge 
+* [GITHUB](https://github.com/KingDogeIO) : https://github.com/KingDogeIO 
 
 # PRESALE 
 PRE-SALE LINK!! \
@@ -41,8 +42,8 @@ Keep stay tuned in our telegram group 👀 \
 STAY TUNED!!!! 
 
 # CHART
-* Bogged.Finance : https://charts.bogged.finance/?token=0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770 \
-* Poocoin : https://poocoin.app/tokens/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770 \
+* Bogged.Finance : https://charts.bogged.finance/?token=0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770 
+* Poocoin : https://poocoin.app/tokens/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770 
 * Dex.Guru : https://dex.guru/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770
 
 # Hot News
