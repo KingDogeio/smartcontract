@@ -56,6 +56,6 @@ Smartcontract audit: coming soon
 * https://m.youtube.com/watch?v=8B6vym1BiP8&feature=youtu.be 
 * https://vm.tiktok.com/ZMepApBKB/ 
 * https://youtu.be/7iBpT17mLhw 
-More video coming up today ! \
+More video coming up today ! 
 
 🚀🚀🚀🚀🚀 
