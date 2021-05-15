@@ -21,16 +21,16 @@ The KingDoge Team is dedicated into creating its own version of doge. The KingDo
 🔸Max: 20 BNB\
 🔸51% Liquidity\
 🔸SoftCap: 750 BNB\
-🔸HardCap: 1500 BNB\
+🔸HardCap: 1500 BNB \
 
 # Website and Social Media
 [TELEGRAM](https://t.me/kingdogeio) : https://t.me/kingdogeio \
 [WEBSITE](https://kingdoge.io/) : https://kingdoge.io/ \
 [VERIFIED CONTRACT](https://bscscan.com/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770) : https://bscscan.com/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770 \
-[TWITTER](https://twitter.com/kingdogetoken) :  https://twitter.com/kingdogetoken
-[FACEBOOK](https://www.facebook.com/groups/Kingdoge) : https://www.facebook.com/groups/Kingdoge
-[REDDIT](https://www.reddit.com/r/KingDoge/) : https://www.reddit.com/r/KingDoge
-[GITHUB](https://github.com/KingDogeIO) : https://github.com/KingDogeIO
+[TWITTER](https://twitter.com/kingdogetoken) :  https://twitter.com/kingdogetoken \
+[FACEBOOK](https://www.facebook.com/groups/Kingdoge) : https://www.facebook.com/groups/Kingdoge \
+[REDDIT](https://www.reddit.com/r/KingDoge/) : https://www.reddit.com/r/KingDoge \
+[GITHUB](https://github.com/KingDogeIO) : https://github.com/KingDogeIO \
 
 # PRESALE 
 PRE-SALE LINK!! \
