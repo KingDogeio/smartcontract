@@ -40,8 +40,13 @@ Keep stay tuned in our telegram group 👀 \
 (Open using trustwallet dapp browser or safepal, change network to bsc network) \
 STAY TUNED!!!! 
 
+# CHART
+* Bogged.Finance : https://charts.bogged.finance/?token=0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770 \
+* Poocoin : https://poocoin.app/tokens/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770 \
+* Dex.Guru : https://dex.guru/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770
+
 # Hot News
-✈️ Hot news 👀  sampepper (https://twitter.com/sampepper) already joined our project \
+✈️ Hot news 👀  [sampepper](https://twitter.com/sampepper) already joined our project \
 Smartcontract audit: coming soon 
 
 # Videos
