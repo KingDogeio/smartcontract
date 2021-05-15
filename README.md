@@ -1,4 +1,4 @@
-# KingDogeToken smartcontract
+# KingDogeToken smartcontract 🚀
 KingDoge.io smartcontract address 0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770
 
 # Explorer
@@ -56,4 +56,5 @@ Smartcontract audit: coming soon
 * https://vm.tiktok.com/ZMepApBKB/ 
 * https://youtu.be/7iBpT17mLhw 
 More video coming up today ! \
+
 🚀🚀🚀🚀🚀 
