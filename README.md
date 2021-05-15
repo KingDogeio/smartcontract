@@ -37,8 +37,8 @@ The KingDoge Team is dedicated into creating its own version of doge. The KingDo
 PRE-SALE LINK!! \
 (Starts: 16 May 2021 00:00) \
 Keep stay tuned in our telegram group 👀 \
-[.....] \
-(Open using trustwallet dapp browser or safepal, change network to bsc network) \
+[DXSALE PRESALE](https://dxsale.app/app/pages/defipresale?saleID=1206&chain=BSC) https://dxsale.app/app/pages/defipresale?saleID=1206&chain=BSC \
+(Open using trustwallet dapp browser or safepal, change network to BSC / Smartchain network) \
 STAY TUNED!!!! 
 
 # CHART
