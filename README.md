@@ -42,7 +42,7 @@ Keep stay tuned in our telegram group 👀 \
 (Open using trustwallet dapp browser or safepal, change network to BSC / Smartchain network) \
 STAY TUNED!!!! 
 
-# CHART
+# CHART (will be available after presale and add LP in PancakeSwap v2)
 * Bogged.Finance : https://charts.bogged.finance/?token=0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770 
 * Poocoin : https://poocoin.app/tokens/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770 
 * Dex.Guru : https://dex.guru/token/0xA60Dad644BE617d4380Ef2a03f3075Ebbc9d0770
