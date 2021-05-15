@@ -21,7 +21,7 @@ The KingDoge Team is dedicated into creating its own version of doge. The KingDo
 🔸Max: 20 BNB\
 🔸51% Liquidity\
 🔸SoftCap: 750 BNB\
-🔸HardCap: 1500 BNB \
+🔸HardCap: 1500 BNB 
 
 # Website and Social Media
 [TELEGRAM](https://t.me/kingdogeio) : https://t.me/kingdogeio \
@@ -30,7 +30,7 @@ The KingDoge Team is dedicated into creating its own version of doge. The KingDo
 [TWITTER](https://twitter.com/kingdogetoken) :  https://twitter.com/kingdogetoken \
 [FACEBOOK](https://www.facebook.com/groups/Kingdoge) : https://www.facebook.com/groups/Kingdoge \
 [REDDIT](https://www.reddit.com/r/KingDoge/) : https://www.reddit.com/r/KingDoge \
-[GITHUB](https://github.com/KingDogeIO) : https://github.com/KingDogeIO \
+[GITHUB](https://github.com/KingDogeIO) : https://github.com/KingDogeIO 
 
 # PRESALE 
 PRE-SALE LINK!! \
@@ -38,11 +38,11 @@ PRE-SALE LINK!! \
 Keep stay tuned in our telegram group 👀 \
 [.....] \
 (Open using trustwallet dapp browser or safepal, change network to bsc network) \
-STAY TUNED!!!! \
+STAY TUNED!!!! 
 
 # Hot News
 ✈️ Hot news 👀  sampepper (https://twitter.com/sampepper) already joined our project \
-Smartcontract audit: coming soon \
+Smartcontract audit: coming soon 
 
 # Videos
 --------------- \
@@ -51,4 +51,4 @@ https://m.youtube.com/watch?v=8B6vym1BiP8&feature=youtu.be \
 https://vm.tiktok.com/ZMepApBKB/ \
 https://youtu.be/7iBpT17mLhw \
 More video coming up today ! \
-🚀🚀🚀🚀🚀 \
+🚀🚀🚀🚀🚀 
